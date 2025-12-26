@@ -16,7 +16,7 @@ My main interests are:
 ---
 
 ## 🔭 Currently Working On
-- **KidTask** – A backend-focused task management system built with Java  
+- **KidTask** – A backend-focused task management and rewarding system built with Java  
   - Object-Oriented design  
   - Modular architecture  
   - Clean code principles  
