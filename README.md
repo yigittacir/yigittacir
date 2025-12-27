@@ -56,7 +56,6 @@ My main interests are:
   <a href="https://linkedin.com/in/yiğit-tacir" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
-  <p align="middle">
   <a href="https://instagram.com/yigit.tacir" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
   </a>
@@ -68,7 +67,6 @@ My main interests are:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yigit-tacir&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigit-tacir&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
