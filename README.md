@@ -61,10 +61,3 @@ My main interests are:
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
   </a>
 </p>
-
----
-
-
----
-
-✨ *Focused on building scalable backends and immersive game systems.*
