@@ -8,7 +8,7 @@ My main tech focus includes:
 # Fun Facts:
 * I have a cat. Her name is Elis.
 * I am caffeine addict.
-* # Hobbies: Playing games , gym , watching football. 
+* ### Hobbies: Playing games , gym , watching football. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yigit.tacir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yiğit-tacir) 
