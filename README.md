@@ -1,9 +1,13 @@
 # 💫 About Me:
-Hi there, I'm Yiğit! 👋 software engineering student based in Türkiye
+👋 Hi there, I'm Yiğit , software engineering student based in Türkiye
+
+I  try to build whatever backend system or game idea comes to mind.
 
 My main tech focus includes:
 * Building foundations with **Backend** tech (Java, Node.js, PostgreSQL).
 * Bringing stories to life with **Game Dev** logic (Unity, C#).
+
+# I am also an active Core Team Organisation Team Member at GDG on Campus Çankaya.
 
 # Fun Facts:
 * I have a cat. Her name is Elis.
