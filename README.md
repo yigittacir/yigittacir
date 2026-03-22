@@ -1,6 +1,14 @@
 # 💫 About Me:
-# Hi, I'm Yiğit 👋<br><br>I'm a Software Engineering student who likes building things that actually work—whether that's a solid backend system, a fun game, or assembling my own PC. <br><br>I don't just write code; I try to solve actual problems. I enjoy figuring out how things work under the hood and putting the pieces together in the most practical way possible. <br><br>### 👨‍💻 What I do<br>* **Backend & APIs:** Building stable and clean foundations (Java, Node.js, PostgreSQL).<br>* **Game Dev:** Bringing ideas to life and messing around with logic (Unity, C#).<br>* **Community:** Organizing tech events and connecting with people via my university's GDG Core Team.<br><br>### 🛠️ Tech I Use<br>* **Languages:** Java • C# • JavaScript • C/C++<br>* **Tools:** Docker • Unity • Git • Supabase<br>* **Vibe:** Clean code, modular design, and keeping things simple.<br><br>### 🎲 Off-screen<br>When I'm not staring at an IDE or debugging, you can probably find me tweaking PC hardware or getting way too invested in a good RPG storyline.<br><br>📫 **Let's connect:** [linkedin.com/in/yiğit-tacir/] | [yigittacir11@gmail.com]
+Hi there, I'm Yiğit! 👋 software engineering student based in Türkiye
 
+My main tech focus includes:
+* Building foundations with **Backend** tech (Java, Node.js, PostgreSQL).
+* Bringing stories to life with **Game Dev** logic (Unity, C#).
+
+# Fun Facts:
+* I have a cat. Her name is Elis.
+* I am caffeine addict.
+* #Hobbies: Playing games , gym , watching football. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yigit.tacir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yiğit-tacir) 
